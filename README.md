@@ -3,6 +3,6 @@
 
 - 👋 Hi, I’m @FurkanSaydam
 - 👀 I’m interested in Security, IoT and Network
-- 🌱 I’m currently learning IoT security and cyber security for SOC
+- 🌱 I’m currently learning IoT security and cyber security
 - 📫 How to reach me my linkedin https://www.linkedin.com/in/muhammet-furkan-saydam-11b55a1a0/
 
